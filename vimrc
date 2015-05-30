@@ -1,3 +1,17 @@
+"" add config for vundle
+"" disable default
+"" enable step
+"" git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+"set nocompatible              " be iMproved, required
+"filetype off                  " required
+
+"set rtp+=~/.vim/bundle/Vundle.vim
+"call vundle#begin()
+"Plugin 'gmarik/Vundle.vim'
+"Plugin 'Valloric/YouCompleteMe'
+"call vundle#end()            " required
+"filetype plugin indent on    " required
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
 "       Amir Salihefendic
